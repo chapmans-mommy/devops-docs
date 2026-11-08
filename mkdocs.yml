@@ -1,0 +1,13 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "chapmans-mommy"
+site_url: https://chapmans-mommy.github.io/devops-docs/
+repo_name: chapmans-mommy/devops-docs
+repo_url: https://github.com/chapmans-mommy/devops-docs
+theme:
+  name: mkdocs
+  locale: ru
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
